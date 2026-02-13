@@ -51,7 +51,7 @@ Durante la sesión trabajamos el modelado BPMN del proceso de agendamiento de ci
 
 ## 🧩 Boceto inicial del modelo
 
-> ![Primer diagrama realizado en clase](.//image.png)
+> ![Primer diagrama realizado en clase](.//boceto-inicial.png)
 
 
 ## 🔁 Tareas definidas para complementar el taller
