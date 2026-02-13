@@ -32,7 +32,7 @@ Durante la sesión trabajamos el modelado BPMN del proceso de agendamiento de ci
 - Selección de especialidad → selección de médico → selección de fecha → validación/consulta → confirmación.
 - Usamos gateways para representar decisiones reales del proceso (principalmente disponibilidad).
 - Modelamos rutas alternas:
-- Ofrecer alternativa cuando no hay cupo.
+    - Ofrecer alternativa cuando no hay cupo.
 - Decisión del paciente: acepta alternativa o cancela.
 - Incluimos el envío/recepción de confirmación por correo o SMS como parte del cierre del proceso.
 
@@ -43,11 +43,11 @@ Durante la sesión trabajamos el modelado BPMN del proceso de agendamiento de ci
 
 #### ¿Qué parte del trabajo se alcanzó a desarrollar?
 - Se definió el flujo completo del proceso con:
-  - evento de inicio y fin,
-  - actividades principales,
-  - decisiones (gateways),
-  - rutas alternativas (aceptar alternativa / cancelar),
-  - confirmación final por correo/SMS.
+    - evento de inicio y fin,
+    - actividades principales,
+    - decisiones (gateways),
+    - rutas alternativas (aceptar alternativa / cancelar),
+    - confirmación final por correo/SMS.
 
 ## 🧩 Boceto inicial del modelo
 
