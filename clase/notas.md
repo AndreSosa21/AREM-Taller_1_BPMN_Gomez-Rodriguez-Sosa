@@ -63,7 +63,3 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 | Modelado final en draw.io | Juan Gomez | 12/08 |
 | Redacción del informe     | Andrea Sosa | 13/08 |
 | Investigación y referencias | Samuel Rodriguez | 13/08 |
-
----
-
-_Este documento resume el trabajo colaborativo realizado durante la sesión del taller 1 en el curso AREM - Universidad de La Sabana._
