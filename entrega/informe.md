@@ -1,18 +1,18 @@
 # 📄 Informe Técnico del Taller
 
 ## 🔖 Nombre del Taller
-_Taller X - [Nombre completo del taller]_
+Modelado de Proceso del Cliente con BPMN
 
 ## 👥 Integrantes del equipo
-- Nombre 1 (correo o usuario GitHub)
-- Nombre 2
-- Nombre 3
+- Juan Andres Gomez 
+- Samuel Andres Rodriguez
+- Andrea Julieth Sosa Rodriguez
 
 ## 🧠 Descripción general del trabajo
-Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
+El objetivo del taller fue **modelar en BPMN** el proceso de evaluación posterior a las capacitaciones virtuales dirigidas a **empresas cliente**, garantizando que **todos los empleados** de cada organización **participen y alcancen el 100% de respuestas correctas**. Además, el modelo contempla un **mecanismo de seguimiento diario**, con **reportes por cliente (empresa)** que permiten monitorear el avance y detectar pendientes de forma oportuna.
 
 ## 🔧 Proceso de desarrollo
-Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando.
+Empezamos entendiendo el proceso actual (Forms → Excel → filtrar por empresa → comparar con listas) y decidimos modelarlo en BPMN para separar claramente responsabilidades y automatización. Primero definimos actores y carriles (Asesora, Plataforma, RRHH del cliente y Empleado) y los datos clave (lista de empleados, respuestas, estado e informe). Luego modelamos el flujo objetivo priorizando lo que reduce trabajo: enlaces únicos por empleado, calificación automática con regla de 100% y reintentos, y un evento diario para generar y enviar el informe por empresa. Finalmente, fuimos ajustando el diagrama agregando compuertas y excepciones comunes (pendientes, reprobados, cambios en listas) hasta dejar un proceso consistente y automatizable.
 
 ## 🧩 Análisis del modelo propuesto
 Incluya un análisis sobre:
@@ -31,6 +31,7 @@ Incluya un análisis sobre:
 
 ## 🔍 Investigación complementaria
 ### Tema investigado:
+
 (Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
 
 ### Resumen:
