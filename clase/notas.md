@@ -53,7 +53,8 @@ Durante la sesión trabajamos el modelado BPMN del proceso de agendamiento de ci
 
 > ![Primer diagrama realizado en clase](.//boceto-inicial.png)
 
-
+## 🧩 Correcciones realizadas al boceto inicial
+Se identificó que uno de los actores que definimos en el modelo inicial fue la base de datos, pero decidimos retirarla como actor, ya que en BPMN la base de datos no participa como un rol con acciones propias, sino que funciona como un recurso/almacén de información consultado o actualizado por el sistema.
 ## 🔁 Tareas definidas para complementar el taller
 
 Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
