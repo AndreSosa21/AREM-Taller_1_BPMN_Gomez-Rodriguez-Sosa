@@ -34,7 +34,9 @@ El proceso refleja la necesidad principal: reducir la carga manual de filtrar Ex
 - El “informe diario” se envía en una hora definida (p.ej., fin de jornada) y el sistema tiene permisos para almacenar/consultar estados.
 
 ## 📈 Diagrama final entregado
-(.//modelo-final.png)
+
+![Diagrama BPMN](./modelo-final.png)
+
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
 
