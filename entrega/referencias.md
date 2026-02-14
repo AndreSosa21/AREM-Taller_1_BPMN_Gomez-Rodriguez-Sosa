@@ -3,16 +3,18 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller X - [Nombre del Taller]_
+Taller 1: Modelado de Proceso del Cliente con BPMN
 
 ---
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+* [1] Object Management Group. *Business Process Model and Notation (BPMN), Version 2.0.2*. 2014. [https://www.omg.org/spec/BPMN/2.0.2/](https://www.omg.org/spec/BPMN/2.0.2/)
+* [2] Bizagi. *Best practices in process modeling*. s. f. [https://docs.bizagi.app/docs/bizagi%20studio/Process%20wizard/Model%20Process/Best%20Practices%20in%20process%20modeling/](https://docs.bizagi.app/docs/bizagi%20studio/Process%20wizard/Model%20Process/Best%20Practices%20in%20process%20modeling/)
+* [3] Camunda. *Creating readable process models*. s. f. [https://docs.camunda.io/docs/components/best-practices/modeling/creating-readable-process-models/](https://docs.camunda.io/docs/components/best-practices/modeling/creating-readable-process-models/)
+* [4] Silver, B. *BPMN Method and Style* (2nd ed.). 2011. [https://books.google.com/books?id=mLDYygAACAAJ](https://books.google.com/books?id=mLDYygAACAAJ)
+
+* Fuente asistida por IA: ChatGPT, febrero 2026
 
 ---
 

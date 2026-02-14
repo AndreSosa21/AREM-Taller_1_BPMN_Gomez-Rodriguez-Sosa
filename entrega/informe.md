@@ -34,7 +34,7 @@ El proceso refleja la necesidad principal: reducir la carga manual de filtrar Ex
 - El “informe diario” se envía en una hora definida (p.ej., fin de jornada) y el sistema tiene permisos para almacenar/consultar estados.
 
 ## 📈 Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
+(.//modelo-final.png)
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
 
